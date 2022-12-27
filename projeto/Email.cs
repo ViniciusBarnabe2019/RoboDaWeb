@@ -20,8 +20,8 @@ public class Email {
         MailMessage mail = new MailMessage();
 
         //Endereços da Msg
-        mail.From = new MailAddress("viniciusbarnabe2019@gmail.com"); //de
-        mail.To.Add("viniciusbarnabe2017@hotmail.com"); //para
+        mail.From = new MailAddress("de@email.com"); //de
+        mail.To.Add("para@email.com"); //para
 
         //Conteudo da Msg
         mail.Subject = "Testando"; //titulo
@@ -30,7 +30,7 @@ public class Email {
         //envia a mensagem
         SmtpClient smtp = new SmtpClient("smtp.gmail.com"){
             Port = 587, //porta de conexão
-            Credentials = new NetworkCredential("viniciusbarnabe2019@gmail.com", "epnt omnq dqeo elft"), //dados acesso
+            Credentials = new NetworkCredential("email@email.com", "sua senha aq"), //dados acesso
             EnableSsl = true, //Criptografia
         };
 
