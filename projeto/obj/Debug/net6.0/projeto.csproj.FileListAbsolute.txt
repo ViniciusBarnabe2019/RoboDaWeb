@@ -1,0 +1,17 @@
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.csproj.CopyComplete
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.dll
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\refint\projeto.dll
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+C:\Users\Papaleguas\Desktop\AZIDEIA\TERABYTECENTER\Cursos\Programação\ProjetosAulas\WebScraping\projeto\obj\Debug\net6.0\ref\projeto.dll

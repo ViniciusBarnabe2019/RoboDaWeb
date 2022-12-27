@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hH3765WkMI9m3yB3tetaHv9p877ovBXAM56quW9Ex9regJQf3QJGmjqsJ0iKS3cVYIy+KAIJPbnkdjRlPeVZrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Papaleguas\\Desktop\\AZIDEIA\\TERABYTECENTER\\Cursos\\Programação\\ProjetosAulas\\WebScraping\\projeto\\projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Papaleguas\\.nuget\\packages\\htmlagilitypack\\1.11.43\\htmlagilitypack.1.11.43.nupkg.sha512"
+  ],
+  "logs": []
+}
