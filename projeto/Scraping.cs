@@ -33,7 +33,7 @@ public class Scraping {
     }
 
     public string Clima(){
-        var url = @"https://www.climatempo.com.br/previsao-do-tempo/cidade/2351/itapui-sp";
+        var url = @"https://www.climatempo.com.br/previsao-do-tempo/cidade/2351/suacidade";
         var doc = web.Load(url);
         
         //Previsão
