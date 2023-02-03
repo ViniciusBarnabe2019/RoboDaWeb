@@ -5,7 +5,7 @@
 Esse Robo da Web (Web Scraping) vem com o intuito de acessar e pegar dados de sites já pré-definidos nas categorias referentes à:
 
 1- Economia (Bitcoin, Euro e Dólar); <br />
-2- Climas (Umidade, Arco-Íris, Previsão de Chuva em sua Cidade); <br />
+2- Climas (Umidade, Arco-Íris, Previsão de Chuva em sua Cidade e Temperaturas Máx e Min); <br />
 3- Notícias (Noticiais Atuais do Portal Uol). <br />
 
 Em seguida, ao raspar os dados presentes nos sites pré-definidos em nosso script, nosso robo notificará via email o usuário que assim quiser ser notificado!
